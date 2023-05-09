@@ -5,7 +5,7 @@ Communicative function identification is presented as a new NLP task for the cla
 The notion of communicative function comes from the foreign language learning and teaching literature; specifically, it comes from the communicative approach in English as a Foreign Language (EFL) (Finocchiaro & Brumfit, 1983). A communicative function is defined as a communicative act or the use of linguistic utterances for a given purpose or intention, typically to express the speaker's emotion or attitude (Milanovic & Saville, 2012).
 
 ## Datasets
-Due to the different taxonomies found in the literature, we decided to focus on the one presented by Blundel et al. (1982), a practical EFL coursebook which contains a wide range of attitudinal, informative, and active communicative functions. From this, we obtained a basic taxonomy of 18 negative communicative functions related to the attitudinal category.
+Due to the different taxonomies found in the literature, we decided to focus on the one presented by Blundel et al. (1982), a practical EFL coursebook that contains a wide range of attitudinal, informative, and active communicative functions. From this, we obtained a basic taxonomy of 18 negative communicative functions related to the attitudinal category.
 
 On the basis of this, we built two synthetic datasets: a basic dataset of constructions and an extended one of social media microtexts synthethically generated with ChatGPT using prompt engineering. The datasets will be made publicly available in this repository.
 
