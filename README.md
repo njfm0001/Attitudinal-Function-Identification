@@ -22,7 +22,7 @@ Financial support for this research has been provided under grant PID2020-112827
 
 ## References
 
-- Blundell, Jon, Higgens, Jonathan, & Middlemiss, Nigel. (1982). "Function in English". Oxford University Press.
+- Blundell, Jon, Higgens, Jonathan, & Middlemiss, Nigel. (1982). *Function in English*. Oxford University Press.
 - Fernández-Martínez, N.J. (2023). Introducing Communicative Function Identification as a new NLP task. Unpublished manuscript.
-- Finocchiaro, M., & Brumfit, C. (1983). "The functional-notional approach: from theory to practice". Oxford University Press.
-- Milanovic, Michael, & Saville, Nick. (2012). The Theoretical Foundations for functions in the Council of Europe modern languages projects and the Common European Framework of Reference for languages. In "Language Functions Revisited". Cambridge University Press. Retrieved from www.cambridge.org
+- Finocchiaro, M., & Brumfit, C. (1983). *The functional-notional approach: from theory to practice*. Oxford University Press.
+- Milanovic, Michael, & Saville, Nick. (2012). The Theoretical Foundations for functions in the Council of Europe modern languages projects and the Common European Framework of Reference for languages. In *Language Functions Revisited*. Cambridge University Press. Retrieved from www.cambridge.org
