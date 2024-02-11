@@ -4,7 +4,7 @@ Ngeative attitudinal function identification is presented as a NLP task that goe
 
 Attitudinal functions are a subtype of communicative functions: the concept of communicative functions comes from the communicative approach in English as a Foreign Language (EFL) (Finocchiaro & Brumfit, 1983). A communicative function is defined as a communicative act or the use of linguistic utterances for a given purpose or intention, typically to express the speaker's attitude (Milanovic & Saville, 2012).
 
-## Datasets
+## Dataset
 Due to the different taxonomies found in the literature, we decided to focus on the one presented by Blundel et al. (1982), a practical EFL coursebook that contains a wide range of attitudinal, informative, and active communicative functions. From this, we obtained a basic taxonomy of 18 negative attitudinal functions.
 
 On the basis of this, we built a synthetic dataset of constructions. The dataset will be made publicly available in this repository.
