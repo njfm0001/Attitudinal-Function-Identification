@@ -1,0 +1,903 @@
+text;function
+I'm hardly interested in it;NOT_INTERESTED
+I'm hardly interested;NOT_INTERESTED
+I'm not very interested in it;NOT_INTERESTED
+I'm not very interested;NOT_INTERESTED
+I'm not interested in it;NOT_INTERESTED
+I'm not interested;NOT_INTERESTED
+I can't get worked up about it;NOT_INTERESTED
+I can't get worked up;NOT_INTERESTED
+I can't say it concerns me;NOT_INTERESTED
+I can't say it is interesting;NOT_INTERESTED
+I can't say it is fascinating;NOT_INTERESTED
+I couldn't care less about it;NOT_INTERESTED
+I couldn't care less;NOT_INTERESTED
+I don't find it very interesting;NOT_INTERESTED
+I don't find it interesting;NOT_INTERESTED
+I don't give a damn about it;NOT_INTERESTED
+I don't give a damn;NOT_INTERESTED
+I don't have any interest in it;NOT_INTERESTED
+I don't have any interest;NOT_INTERESTED
+I don't have much interest in it;NOT_INTERESTED
+I don't have much interest;NOT_INTERESTED
+I don't take any great interest in it;NOT_INTERESTED
+I don't take any great interest;NOT_INTERESTED
+I find it rather uninteresting;NOT_INTERESTED
+I find it rather boring;NOT_INTERESTED
+I find it uninteresting;NOT_INTERESTED
+I find it boring;NOT_INTERESTED
+it bores me stiff;NOT_INTERESTED
+it bores me;NOT_INTERESTED
+it is a matter of some indifference;NOT_INTERESTED
+it isn't for me;NOT_INTERESTED
+it just isn't my cup of tea;NOT_INTERESTED
+nothing interests me less than it;NOT_INTERESTED
+nothing interests me less;NOT_INTERESTED
+it leaves me cold;BORED
+I'm rather bored by it;BORED
+I'm rather bored;BORED
+I'm bored by it;BORED
+I'm bored;BORED
+I'm really not terribly interested in it;BORED
+I'm really not terribly interested;BORED
+I'm really not interested in it;BORED
+I'm really not interested;BORED
+I'm not terribly interested in it;BORED
+I'm not terribly interested;BORED
+I'm not interested in it;BORED
+I'm not interested;BORED
+I'm not all that keen on it;BORED
+I'm not all that keen;BORED
+I can't honestly say I'm all that interested in it;BORED
+I can't honestly say I'm all that interested;BORED
+I don't find it very interesting;BORED
+I don't think it is very exciting;BORED
+I don't think it is very interesting;BORED
+I don't think it is exciting;BORED
+I don't think it is interesting;BORED
+I find it rather tedious;BORED
+I find it rather uninteresting;BORED
+I find it very tedious;BORED
+I find it very uninteresting;BORED
+I find it totally tedious;BORED
+I find it totally uninteresting;BORED
+I find it difficult to be enthusiastic about it;BORED
+I find it difficult to be enthusiastic;BORED
+it rather bores me;BORED
+it bores me;BORED
+it bores me stiff;BORED
+it is a total bore;BORED
+it is a total drag;BORED
+it is a bore;BORED
+it is a drag;BORED
+it is deadly boring;BORED
+it is awfully boring;BORED
+it is incredibly boring;BORED
+it looks rather boring;BORED
+it looks boring;BORED
+it sounds rather boring;BORED
+it sounds boring;BORED
+it seems rather boring;BORED
+it seems boring;BORED
+it really turns me off;BORED
+can't work up much enthusiasm for it;BORED
+can't work up much enthusiasm;BORED
+how boring;BORED
+how unexciting;BORED
+I'm not really very keen on it;DISLIKE
+I'm not really very keen;DISLIKE
+I'm not really keen on it;DISLIKE
+I'm not really keen;DISLIKE
+I'm not very keen on it;DISLIKE
+I'm not very keen;DISLIKE
+I'm not keen on it;DISLIKE
+I'm not keen;DISLIKE
+I'm not over-enthusiastic;DISLIKE
+I'm not too fond of it;DISLIKE
+I'm not too fond;DISLIKE
+I'm not particularly fond of it;DISLIKE
+I'm not particularly fond;DISLIKE
+I've never liked it;DISLIKE
+I especially dislike it;DISLIKE
+I rather dislike it;DISLIKE
+I dislike it;DISLIKE
+I really hate it;DISLIKE
+I hate it;DISLIKE
+I can't say it appeals to me;DISLIKE
+I can't stick it;DISLIKE
+I can't bear it;DISLIKE
+I can't stand it;DISLIKE
+I can't work up any enthusiasm for it;DISLIKE
+I can't work up any enthusiasm;DISLIKE
+I don't like it;DISLIKE
+I don't think it is particularly pleasant;DISLIKE
+I don't think it is particularly enjoyable;DISLIKE
+I don't think it is very pleasant;DISLIKE
+I don't think it is very enjoyable;DISLIKE
+I don't think it is pleasant;DISLIKE
+I don't think it is enjoyable;DISLIKE
+I find it unattractive;DISLIKE
+I find it unpleasant;DISLIKE
+I find it difficult to get on with it;DISLIKE
+I have a particular aversion to it;DISLIKE
+I have a particular aversion;DISLIKE
+I have a particular dislike of it;DISLIKE
+I have a particular dislike;DISLIKE
+I never could put up with it;DISLIKE
+it is pretty awful;DISLIKE
+it is awful;DISLIKE
+it is really unpleasant;DISLIKE
+it is unpleasant;DISLIKE
+it is ghastly;DISLIKE
+it is rubbish;DISLIKE
+it is not one of my favourite;DISLIKE
+how awful;DISLIKE
+there's nothing I like less than it;DISLIKE
+there's nothing I like less;DISLIKE
+I'm not sure you're right about it;NOT_CORRECT
+I'm not sure you're right;NOT_CORRECT
+I'm not sure he's right about it;NOT_CORRECT
+I'm not sure he's right;NOT_CORRECT
+I'm not sure she's right about it;NOT_CORRECT
+I'm not sure she's right;NOT_CORRECT
+I'm not sure we're right about it;NOT_CORRECT
+I'm not sure we're right;NOT_CORRECT
+I'm not sure they're right about it;NOT_CORRECT
+I'm not sure they're right;NOT_CORRECT
+I've got it all wrong;NOT_CORRECT
+I've got it wrong;NOT_CORRECT
+you've got it all wrong;NOT_CORRECT
+you've got it wrong;NOT_CORRECT
+he's got it all wrong;NOT_CORRECT
+he's got it wrong;NOT_CORRECT
+she's got it all wrong;NOT_CORRECT
+she's got it wrong;NOT_CORRECT
+we've got it all wrong;NOT_CORRECT
+we've got it wrong;NOT_CORRECT
+they've got it all wrong;NOT_CORRECT
+they've got it wrong;NOT_CORRECT
+that's nonsense;NOT_CORRECT
+that's rubbish;NOT_CORRECT
+that's bullshit;NOT_CORRECT
+that's bs;NOT_CORRECT
+that's crap;NOT_CORRECT
+it's nonsense;NOT_CORRECT
+it's rubbish;NOT_CORRECT
+it's bullshit;NOT_CORRECT
+it's bs;NOT_CORRECT
+it's crap;NOT_CORRECT
+nonsense;NOT_CORRECT
+rubbish;NOT_CORRECT
+bullshit;NOT_CORRECT
+bs;NOT_CORRECT
+crap;NOT_CORRECT
+that's not quite right;NOT_CORRECT
+that's not right;NOT_CORRECT
+that's not the case;NOT_CORRECT
+it's not the case;NOT_CORRECT
+there's been some misunderstanding;NOT_CORRECT
+you're all wrong;NOT_CORRECT
+you're wrong;NOT_CORRECT
+he's all wrong;NOT_CORRECT
+he's wrong;NOT_CORRECT
+she's all wrong;NOT_CORRECT
+she's wrong;NOT_CORRECT
+that's all wrong;NOT_CORRECT
+that's wrong;NOT_CORRECT
+we're all wrong;NOT_CORRECT
+we're wrong;NOT_CORRECT
+they're all wrong;NOT_CORRECT
+they're wrong;NOT_CORRECT
+you're not quite right about it;NOT_CORRECT
+you're not quite right;NOT_CORRECT
+you're not right about it;NOT_CORRECT
+you're not right;NOT_CORRECT
+he's not quite right about it;NOT_CORRECT
+he's not quite right;NOT_CORRECT
+he's not right about it;NOT_CORRECT
+he's not right;NOT_CORRECT
+she's not quite right about it;NOT_CORRECT
+she's not quite right;NOT_CORRECT
+she's not right about it;NOT_CORRECT
+she's not right;NOT_CORRECT
+we're not quite right about it;NOT_CORRECT
+we're not quite right;NOT_CORRECT
+we're not right about it;NOT_CORRECT
+we're not right;NOT_CORRECT
+they're not quite right about it;NOT_CORRECT
+they're not quite right;NOT_CORRECT
+they're not right about it;NOT_CORRECT
+they're not right;NOT_CORRECT
+I'm fairly pessimistic about it;PESSIMISTIC
+I'm fairly pessimistic;PESSIMISTIC
+I'm pessimistic about it;PESSIMISTIC
+I'm pessimistic;PESSIMISTIC
+I'm rather sceptical about it;PESSIMISTIC
+I'm rather sceptical;PESSIMISTIC
+I'm rather skeptical about it;PESSIMISTIC
+I'm rather skeptical;PESSIMISTIC
+I'm sceptical about it;PESSIMISTIC
+I'm sceptical;PESSIMISTIC
+I'm skeptical about it;PESSIMISTIC
+I'm skeptical;PESSIMISTIC
+I'm not too happy about it;PESSIMISTIC
+I'm not too happy;PESSIMISTIC
+I'm not happy about it;PESSIMISTIC
+I'm not happy;PESSIMISTIC
+I'm not all that optimistic about it;PESSIMISTIC
+I'm not all that optimistic;PESSIMISTIC
+I'm not really sure about it;PESSIMISTIC
+I'm not really sure;PESSIMISTIC
+I'm rather doubtful about it;PESSIMISTIC
+I'm rather doubtful;PESSIMISTIC
+I'm bound to fail;PESSIMISTIC
+I'm bound to lose;PESSIMISTIC
+you're bound to fail;PESSIMISTIC
+you're bound to lose;PESSIMISTIC
+he's bound to fail;PESSIMISTIC
+he's bound to lose;PESSIMISTIC
+she's bound to fail;PESSIMISTIC
+she's bound to lose;PESSIMISTIC
+it's bound to fail;PESSIMISTIC
+it's bound to lose;PESSIMISTIC
+we're bound to fail;PESSIMISTIC
+we're bound to lose;PESSIMISTIC
+they're bound to fail;PESSIMISTIC
+they're bound to lose;PESSIMISTIC
+I don't hold out much hope for it;PESSIMISTIC
+I don't hold out much hope;PESSIMISTIC
+I don't want to sound too pessimistic;PESSIMISTIC
+I have to admit to doubts about it;PESSIMISTIC
+I have to admit to doubts;PESSIMISTIC
+I rather doubt it;PESSIMISTIC
+it can't be done;PESSIMISTIC
+it is bound not to be fine;PESSIMISTIC
+it is bound not to go well;PESSIMISTIC
+it is bound not to succeed;PESSIMISTIC
+it is bound to reject it;PESSIMISTIC
+it is bound to hate it;PESSIMISTIC
+it is bound to ditch it;PESSIMISTIC
+fat chance;PESSIMISTIC
+there's no way;PESSIMISTIC
+I'm rather apprehensive about it;WORRIED
+I'm rather apprehensive;WORRIED
+I'm apprehensive about it;WORRIED
+I'm apprehensive;WORRIED
+I'm really frightened of it;WORRIED
+I'm really frightened;WORRIED
+I'm really terrified of it;WORRIED
+I'm really terrified;WORRIED
+I'm frightened of it;WORRIED
+I'm frightened;WORRIED
+I'm terrified of it;WORRIED
+I'm terrified;WORRIED
+I'm really in a flap about it;WORRIED
+I'm really in a flap;WORRIED
+I'm in a flap about it;WORRIED
+I'm in a flap;WORRIED
+I'm very anxious about it;WORRIED
+I'm very anxious;WORRIED
+I'm anxious about it;WORRIED
+I'm anxious;WORRIED
+I'm very concerned about it;WORRIED
+I'm very concerned;WORRIED
+I'm concerned about it;WORRIED
+I'm concerned;WORRIED
+I'm very worried about it;WORRIED
+I'm very worried;WORRIED
+I'm very uneasy about it;WORRIED
+I'm very uneasy;WORRIED
+I'm worried about it;WORRIED
+I'm worried;WORRIED
+I'm uneasy about it;WORRIED
+I'm uneasy;WORRIED
+I'm afraid of it;WORRIED
+I'm afraid;WORRIED
+I'm extremely nervous of it;WORRIED
+I'm extremely nervous;WORRIED
+I'm scared stiff of it;WORRIED
+I'm scared stiff;WORRIED
+I'm scared of it;WORRIED
+I'm scared;WORRIED
+I'm worried sick about it;WORRIED
+I'm worried sick by it;WORRIED
+I'm worried sick;WORRIED
+I'm worried about it;WORRIED
+I'm worried by it;WORRIED
+I'm worried;WORRIED
+I've got the wind up about it;WORRIED
+I've got the wind up;WORRIED
+I find it very worrying;WORRIED
+I find it worrying;WORRIED
+I have serious misgivings about it;WORRIED
+I have serious misgivings;WORRIED
+I have serious qualms about it;WORRIED
+I have serious qualms;WORRIED
+I have misgivings about it;WORRIED
+I have misgivings;WORRIED
+I have qualms about it;WORRIED
+I have qualms;WORRIED
+I fear it;WORRIED
+it gives me some cause for anxiety;WORRIED
+it gives me some cause for concern;WORRIED
+it gives me some cause for worry;WORRIED
+it gives me the creeps;WORRIED
+it gives me the jitters;WORRIED
+I'm very annoyed about it;ANGRY
+I'm very annoyed at it;ANGRY
+I'm very annoyed with it;ANGRY
+I'm very annoyed;ANGRY
+I'm annoyed about it;ANGRY
+I'm annoyed at it;ANGRY
+I'm annoyed with it;ANGRY
+I'm annoyed;ANGRY
+I'm extremely displeased about it;ANGRY
+I'm extremely displeased;ANGRY
+I'm extremely unhappy about it;ANGRY
+I'm extremely unhappy;ANGRY
+I'm extremely angry about it;ANGRY
+I'm extremely angry;ANGRY
+I'm very displeased about it;ANGRY
+I'm very displeased;ANGRY
+I'm very unhappy about it;ANGRY
+I'm very unhappy;ANGRY
+I'm very angry about it;ANGRY
+I'm very angry;ANGRY
+I'm most displeased about it;ANGRY
+I'm most displeased;ANGRY
+I'm most unhappy about it;ANGRY
+I'm most unhappy;ANGRY
+I'm most angry about it;ANGRY
+I'm most angry;ANGRY
+I'm fed up with it;ANGRY
+I've had just about enough of it;ANGRY
+I've had enough of it;ANGRY
+I can't say I'm at all pleased about it;ANGRY
+I can't say I'm at all pleased by it;ANGRY
+I can't say I'm at all pleased;ANGRY
+I can't stand it;ANGRY
+I find it most offensive;ANGRY
+I find it most objectionable;ANGRY
+I find it most annoying;ANGRY
+I find it most exasperating;ANGRY
+I find it extremely offensive;ANGRY
+I find it extremely objectionable;ANGRY
+I find it extremely annoying;ANGRY
+I find it extremely exasperating;ANGRY
+I really hate it;ANGRY
+I must say I resent to it;ANGRY
+I must say I object to it;ANGRY
+I take great exception to it;ANGRY
+I take considerable exception to it;ANGRY
+I will not put up with it;ANGRY
+it really makes me mad;ANGRY
+it makes me mad;ANGRY
+it really makes me see red;ANGRY
+it makes me see red;ANGRY
+it really makes my blood boil;ANGRY
+it makes my blood boil;ANGRY
+it is extremely irritating;ANGRY
+it is most annoying;ANGRY
+it is most exasperating;ANGRY
+it is very annoying;ANGRY
+it is very exasperating;ANGRY
+it is extremely annoying;ANGRY
+it is extremely exasperating;ANGRY
+bloody hell;ANGRY
+damn it;ANGRY
+how infuriating;ANGRY
+how irritating;ANGRY
+that's the last straw;ANGRY
+what a nuissance;ANGRY
+what an idiot;ANGRY
+what an fool;ANGRY
+why on earth didn't you;ANGRY
+why on earth didn't he;ANGRY
+why on earth didn't she;ANGRY
+why on earth didn't they;ANGRY
+I'm very disappointed about it;DISAPPOINTED
+I'm very disappointed;DISAPPOINTED
+I'm rather disappointed about it;DISAPPOINTED
+I'm rather disappointed;DISAPPOINTED
+it comes as a great disappointment;DISAPPOINTED
+it is a great pity;DISAPPOINTED
+it is a great disappointment;DISAPPOINTED
+it is a pity;DISAPPOINTED
+it is a disappointment;DISAPPOINTED
+oh no!;DISAPPOINTED
+that's very disappointing;DISAPPOINTED
+that's disappointing;DISAPPOINTED
+that's too bad;DISAPPOINTED
+that's a real shame;DISAPPOINTED
+that's a real pity;DISAPPOINTED
+that's a real let-down;DISAPPOINTED
+it's a real shame;DISAPPOINTED
+it's a real pity;DISAPPOINTED
+it's a real let-down;DISAPPOINTED
+what a pity;DISAPPOINTED
+what a disappointment;DISAPPOINTED
+I'm fed up with it;COMPLAIN
+I'm fed up;COMPLAIN
+I'm not at all satisfied with it;COMPLAIN
+I'm not at all satisfied;COMPLAIN
+I've got a complaint about it;COMPLAIN
+I've got a complaint;COMPLAIN
+I've just about had enough of it;COMPLAIN
+I've just about had enough;COMPLAIN
+I have a complaint to make;COMPLAIN
+I want to complain about it;COMPLAIN
+I want to complain;COMPLAIN
+I really do object to it;COMPLAIN
+I really must object to it;COMPLAIN
+I take great exception to it;COMPLAIN
+I wish to complain in the strongest terms about it;COMPLAIN
+I wish to complain in the strongest terms;COMPLAIN
+it just isn't good enough;COMPLAIN
+it just won't do!;COMPLAIN
+it really is the limit!;COMPLAIN
+can you do anything about it?;COMPLAIN
+for goodness sake!;COMPLAIN
+something must be done about it;COMPLAIN
+something must be done;COMPLAIN
+something will have to be done about it;COMPLAIN
+something will have to be done;COMPLAIN
+this is most unsatisfactory;COMPLAIN
+what are you going to do about it?;COMPLAIN
+you can't possibly do that;COMPLAIN
+you're always doing it;COMPLAIN
+you've got to do something about it;COMPLAIN
+you've got to do something;COMPLAIN
+I'm certainly not in favour of it;NOT_APPROVE
+I'm certainly not in favour;NOT_APPROVE
+I'm not in favour of it;NOT_APPROVE
+I'm not in favour;NOT_APPROVE
+I'm definitely opposed to it;NOT_APPROVE
+I'm opposed to it;NOT_APPROVE
+I'm really not pleased about it;NOT_APPROVE
+I'm really not pleased;NOT_APPROVE
+I'm really not displeased about it;NOT_APPROVE
+I'm really not displeased;NOT_APPROVE
+I'm really not upset about it;NOT_APPROVE
+I'm really not upset;NOT_APPROVE
+I'm not pleased about it;NOT_APPROVE
+I'm not pleased;NOT_APPROVE
+I'm not displeased about it;NOT_APPROVE
+I'm not displeased;NOT_APPROVE
+I'm not upset about it;NOT_APPROVE
+I'm not upset;NOT_APPROVE
+I'm dead against it;NOT_APPROVE
+I'm not very happy about it;NOT_APPROVE
+I'm not very happy;NOT_APPROVE
+I'm not happy about it;NOT_APPROVE
+I'm not happy;NOT_APPROVE
+I certainly can't give my approval to it;NOT_APPROVE
+I certainly can't give my approval;NOT_APPROVE
+I certainly can't give my support to it;NOT_APPROVE
+I certainly can't give my support;NOT_APPROVE
+I can't give my approval to it;NOT_APPROVE
+I can't give my approval;NOT_APPROVE
+I can't give my support to it;NOT_APPROVE
+I can't give my support;NOT_APPROVE
+I really can't approve of it;NOT_APPROVE
+I really can't approve;NOT_APPROVE
+I really don't approve of it;NOT_APPROVE
+I really don't approve;NOT_APPROVE
+I can't approve of it;NOT_APPROVE
+I can't approve;NOT_APPROVE
+I don't approve of it;NOT_APPROVE
+I don't approve;NOT_APPROVE
+I really don't feel I can give my approval to it;NOT_APPROVE
+I really don't feel I can give my approval;NOT_APPROVE
+I really don't feel I can give my support to it;NOT_APPROVE
+I really don't feel I can give my support;NOT_APPROVE
+I don't feel I can give my approval to it;NOT_APPROVE
+I don't feel I can give my approval;NOT_APPROVE
+I don't feel I can give my support to it;NOT_APPROVE
+I don't feel I can give my support;NOT_APPROVE
+I don't think much of that;NOT_APPROVE
+I don't think that's very good;NOT_APPROVE
+I don't think that's good;NOT_APPROVE
+I don't think it's very good;NOT_APPROVE
+I don't think it's good;NOT_APPROVE
+I feel I must register my disapproval of it;NOT_APPROVE
+I feel I must register my disapproval;NOT_APPROVE
+I would find it difficult to recommend it;NOT_APPROVE
+how much/greatly I disapprove of it;NOT_APPROVE
+how much/greatly I disapprove;NOT_APPROVE
+I disapprove of it;NOT_APPROVE
+I disapprove;NOT_APPROVE
+I find it quite unsatisfactory;NOT_APPROVE
+I find it quite unacceptable;NOT_APPROVE
+I find it completely unsatisfactory;NOT_APPROVE
+I find it completely unacceptable;NOT_APPROVE
+it is wrong;NOT_APPROVE
+it isn't right;NOT_APPROVE
+how dreadful;NOT_APPROVE
+how apalling;NOT_APPROVE
+is it really necessary?;NOT_APPROVE
+is it necessary?;NOT_APPROVE
+it's all wrong;NOT_APPROVE
+it's quite wrong;NOT_APPROVE
+it's wrong;NOT_APPROVE
+that's all wrong;NOT_APPROVE
+that's quite wrong;NOT_APPROVE
+that's wrong;NOT_APPROVE
+I don't think it matters;NOT_IMPORTANT
+I don't think that's so important;NOT_IMPORTANT
+I don't think that's important;NOT_IMPORTANT
+I really can't see what relevance it has;NOT_IMPORTANT
+I think it is something we can ignore;NOT_IMPORTANT
+it doesn't really make any difference;NOT_IMPORTANT
+it doesn't make any difference;NOT_IMPORTANT
+it doesn't affect the issue under discussion;NOT_IMPORTANT
+it doesn't affect the question under discussion;NOT_IMPORTANT
+it doesn't matter;NOT_IMPORTANT
+it doesn't matter a damn;NOT_IMPORTANT
+it doesn't matter one bit;NOT_IMPORTANT
+it has got nothing to do;NOT_IMPORTANT
+it is just not the issue;NOT_IMPORTANT
+it is just not the point;NOT_IMPORTANT
+it is just not the question;NOT_IMPORTANT
+it is not the issue;NOT_IMPORTANT
+it is not the point;NOT_IMPORTANT
+it is not the question;NOT_IMPORTANT
+it is of no great consequence;NOT_IMPORTANT
+does it matter?;NOT_IMPORTANT
+it's beside the point;NOT_IMPORTANT
+that's beside the point;NOT_IMPORTANT
+it's neither here nor there;NOT_IMPORTANT
+that's neither here nor there;NOT_IMPORTANT
+it doesn't make a blind bit of difference;NOT_IMPORTANT
+that doesn't make a blind bit of difference;NOT_IMPORTANT
+so what?;NOT_IMPORTANT
+that shouldn't concern us;NOT_IMPORTANT
+what's that got to do with it?;NOT_IMPORTANT
+you don't have to worry about it;NOT_IMPORTANT
+we don't have to worry about it;NOT_IMPORTANT
+I'm not at all sure;DISAGREE
+I'm not sure;DISAGREE
+I'm not entirely conviced by it;DISAGREE
+I'm not entirely conviced;DISAGREE
+I'm not conviced by it;DISAGREE
+I'm not conviced;DISAGREE
+I'm not at all conviced by it;DISAGREE
+I'm not at all conviced;DISAGREE
+I entirely disagree with it;DISAGREE
+I entirely disagree;DISAGREE
+I disagree with it;DISAGREE
+I disagree;DISAGREE
+I can't accept it;DISAGREE
+I can't go along with it;DISAGREE
+I can't go along;DISAGREE
+I can't say that I share that;DISAGREE
+I can't say that I share your view of it;DISAGREE
+I can't say that I share your view;DISAGREE
+I can't say that I share your assesment of it;DISAGREE
+I can't say that I share your assesment;DISAGREE
+I don't agree with it;DISAGREE
+I don't agree;DISAGREE
+I don't see why;DISAGREE
+I don't think that's right;DISAGREE
+I think that's nonsense;DISAGREE
+I think that's rubbish;DISAGREE
+I think that's bullshit;DISAGREE
+I think that's bs;DISAGREE
+I think that's crap;DISAGREE
+that's rubbish;DISAGREE
+that's nonsense;DISAGREE
+that's bullshit;DISAGREE
+that's bs;DISAGREE
+that's crap;DISAGREE
+rubbish;DISAGREE
+nonsense;DISAGREE
+bullshit;DISAGREE
+bs;DISAGREE
+crap;DISAGREE
+I really must take issue with you there;DISAGREE
+I really must take issue with you;DISAGREE
+I see things rather differently myself;DISAGREE
+come off it!;DISAGREE
+not really;DISAGREE
+that's not right;DISAGREE
+that's not the way I see it;DISAGREE
+that's wrong;DISAGREE
+you can't be serious!;DISAGREE
+you can't mean that!;DISAGREE
+you must be joking!;REFUSE
+I'm sorry to say it's quite impossible;REFUSE
+I'm sorry to say it's impossible;REFUSE
+I'm sorry to say it's not possible;REFUSE
+I'm sorry to say there can be no question;REFUSE
+I'm sorry to say we cannot see our way clear to it;REFUSE
+I'm sorry, I can't do it;REFUSE
+I'm sorry, I can't;REFUSE
+I'm sorry, I couldn't do it;REFUSE
+I'm sorry, I couldn't;REFUSE
+I'm sorry, I don't think I can do it;REFUSE
+I'm sorry, I don't think I can;REFUSE
+I'm sorry, I don't think I could do it;REFUSE
+I'm sorry, I don't think I could;REFUSE
+I'm sorry, I don't reckon I can do it;REFUSE
+I'm sorry, I don't reckon I can;REFUSE
+I'm sorry, I don't reckon I could do it;REFUSE
+I'm sorry, I don't reckon I could;REFUSE
+I'm sorry, it's not possible;REFUSE
+only wish I could;REFUSE
+wish I could;REFUSE
+I certainly won't;REFUSE
+I won't;REFUSE
+I regret to say that we find ourselves unable to do it;REFUSE
+I'd rather not;REFUSE
+I'm afraid not;REFUSE
+no way!;REFUSE
+not likely!;REFUSE
+out of the question;REFUSE
+pull the other one!;REFUSE
+that's simply not on;REFUSE
+that's just not on;REFUSE
+that's not on;REFUSE
+it's simply not on;REFUSE
+it's just not on;REFUSE
+it's not on;REFUSE
+would if I could;REFUSE
+I would be extremely careful of it if I were you;WARN
+be careful of it;WARN
+be careful;WARN
+be ready for it;WARN
+be ready;WARN
+look out!;WARN
+make sure you do it;WARN
+make sure you don't do it;WARN
+mind it;WARN
+mind out!;WARN
+mind you don't do it;WARN
+watch out for it;WARN
+watch out;WARN
+Do that again and I'll do it;THREATEN
+Do that and I'll do it;THREATEN
+Don't do that or I'll do it;THREATEN
+If I were you, I wouldn't do it;THREATEN
+If I were you, I'd do it;THREATEN
+don't you dare!;THREATEN
+just you dare!;THREATEN
+far be it from me to resort to threats, but I'll do it;THREATEN
+if you don't do that, I shall be forced to do it;THREATEN
+if you don't do that, I shall be obliged to do it;THREATEN
+if you don't I shall be forced to do it;THREATEN
+if you don't I shall be obliged to do it;THREATEN
+just don't do it, that's all;THREATEN
+just don't that's all;THREATEN
+just you try!;THREATEN
+try that and I'll do it;THREATEN
+watch it!;THREATEN
+you'd be very unwise not to do it;THREATEN
+you'd be very unwise to do it;THREATEN
+you'd be most unwise not to do it;THREATEN
+you'd be most unwise to do it;THREATEN
+you'd be well advised not to do it;THREATEN
+you'd be well advised to do it;THREATEN
+I'm not too keen on doing it;UNWILLING
+I'm not keen on doing it;UNWILLING
+I'm not really willing to do it;UNWILLING
+I'm not sure that we would find ourselves able to do it;UNWILLING
+I can't possibly do it;UNWILLING
+I couldn't possibly do it;UNWILLING
+I don't really fancy doing it;UNWILLING
+I don't fancy doing it;UNWILLING
+I don't really want to do it;UNWILLING
+I don't really want to;UNWILLING
+I don't think I can do it;UNWILLING
+I don't think I can;UNWILLING
+I don't think I could do it;UNWILLING
+I don't think I could;UNWILLING
+I wouldn't be willing to do it;UNWILLING
+I would prefer not to do it;UNWILLING
+I would prefer not to;UNWILLING
+I'd be rather reluctant to do it;UNWILLING
+I'd be reluctant to do it;UNWILLING
+I'd rather not do it;UNWILLING
+I'd rather not;UNWILLING
+I'm not totally conviced we should do it;UNWILLING
+I'm not entirely conviced we should do it;UNWILLING
+I'm not conviced we should do it;UNWILLING
+it'd be a little awkward;UNWILLING
+it'd be a little difficult;UNWILLING
+I'm suspicious of it;DISTRUST
+I'm suspicious;DISTRUST
+I'm sceptical of it;DISTRUST
+I'm sceptical;DISTRUST
+I've heard it all before;DISTRUST
+I've heard it before;DISTRUST
+I don't have any reason to trust it;DISTRUST
+I have reasons to doubt it;DISTRUST
+I take it with a pinch of salt;DISTRUST
+I distrust it;DISTRUST
+I mistrust it;DISTRUST
+I disbelieve it;DISTRUST
+I doubt it;DISTRUST
+I doubt his word;DISTRUST
+I doubt her word;DISTRUST
+I doubt your word;DISTRUST
+I doubt their word;DISTRUST
+I'll believe it when I see it;DISTRUST
+are you kidding?;DISTRUST
+come on;DISTRUST
+my ass;DISTRUST
+my arse;DISTRUST
+no way;DISTRUST
+pull the other one;DISTRUST
+surely not;DISTRUST
+you must be joking;DISTRUST
+I don't remember about it;OTHER
+I don't remember;OTHER
+I remember about it;OTHER
+I remember;OTHER
+I agree;OTHER
+do you remember it?;OTHER
+remember it?;OTHER
+I don't know about it;OTHER
+I don't know;OTHER
+I know about it;OTHER
+I know;OTHER
+I don't know how to do it;OTHER
+I know how to do it;OTHER
+I don't think you have to do it;OTHER
+I think you have to do it;OTHER
+I am confident about it;OTHER
+I am confident;OTHER
+I can do it;OTHER
+I hope it will happen;OTHER
+I like it;OTHER
+I love it;OTHER
+I enjoy it;OTHER
+I think you should do it;OTHER
+I'd be very interested to know about it;OTHER
+I'd be very interested to know;OTHER
+I'd like to;OTHER
+I'll do it;OTHER
+I'll do all I can;OTHER
+I'm not sure about it;OTHER
+I'm not sure;OTHER
+I'm sure about it;OTHER
+I'm sure;OTHER
+I'm a fan;OTHER
+I'm happy about it;OTHER
+I'm happy;OTHER
+I'm pleased about it;OTHER
+I'm pleased;OTHER
+I'm not too bad at it;OTHER
+I'm planning to do it;OTHER
+I'm thinking of doing it;OTHER
+all the best!;OTHER
+any time;OTHER
+are you not worried about it?;OTHER
+are you not worried?;OTHER
+are you not happy about it?;OTHER
+are you not happy?;OTHER
+are you not ok about it?;OTHER
+are you not ok?;OTHER
+are you not disappointed about it?;OTHER
+are you not disappointed?;OTHER
+are you not excited about it?;OTHER
+are you not excited?;OTHER
+are you worried about it?;OTHER
+are you worried?;OTHER
+are you happy about it?;OTHER
+are you happy?;OTHER
+are you ok about it?;OTHER
+are you ok?;OTHER
+are you disappointed about it?;OTHER
+are you disappointed?;OTHER
+are you excited about it?;OTHER
+are you excited?;OTHER
+are you interested in it?;OTHER
+are you interested?;OTHER
+are you sure about it?;OTHER
+are you sure?;OTHER
+can I help?;OTHER
+can anyone help me with it?;OTHER
+can anyone help me?;OTHER
+did you know about it?;OTHER
+did you know?;OTHER
+do I have to do it?;OTHER
+do I need to do it?;OTHER
+do you know him?;OTHER
+do you know her?;OTHER
+do you know them?;OTHER
+do you prefer this or that?;OTHER
+do you think I should not do it?;OTHER
+do you think I should do it?;OTHER
+do you think it will work?;OTHER
+do you think you can do it?;OTHER
+do you not like it?;OTHER
+do you like it?;OTHER
+did you not like it?;OTHER
+did you like it?;OTHER
+do you think so?;OTHER
+don't you think so?;OTHER
+don't worry about it;OTHER
+don't worry;OTHER
+don't you agree?;OTHER
+enjoy!;OTHER
+everything will be fine;OTHER
+everything will be ok;OTHER
+everything will be alright;OTHER
+go ahead;OTHER
+got any idea about it?;OTHER
+got any idea?;OTHER
+happy birthday;OTHER
+happy easter;OTHER
+happy christmas;OTHER
+happy anniversary;OTHER
+have a good day;OTHER
+have a good time;OTHER
+hopefully;OTHER
+how do you do?;OTHER
+how do you feel about it?;OTHER
+how do you feel?;OTHER
+how true;OTHER
+imagine if that happened;OTHER
+is it not right?;OTHER
+is it not correct?;OTHER
+is it not ok?;OTHER
+is it not true?;OTHER
+is it right?;OTHER
+is it correct?;OTHER
+is it ok?;OTHER
+is it true?;OTHER
+is there anything I can do about it?;OTHER
+is there anything I can do?;OTHER
+it's not like this;OTHER
+it's like this;OTHER
+it's difficult to say;OTHER
+it's possible;OTHER
+it's likely;OTHER
+it's up to you;OTHER
+let me explain;OTHER
+looking forward to doing it;OTHER
+my pleasure;OTHER
+need some help?;OTHER
+nice one;OTHER
+nice to meet you;OTHER
+thank goodness for it;OTHER
+thank goodness;OTHER
+thank god for it;OTHER
+thank god;OTHER
+thank you for it;OTHER
+thank you;OTHER
+that sounds cool;OTHER
+that sounds nice;OTHER
+that sounds lovely;OTHER
+that's it;OTHER
+that's right;OTHER
+that's correct;OTHER
+that's true;OTHER
+that's ok;OTHER
+that's fine;OTHER
+that's surprising;OTHER
+that's exciting;OTHER
+that's fantastic;OTHER
+that's nice;OTHER
+that's crazy;OTHER
+that's great;OTHER
+that's wonderful;OTHER
+that's interesting;OTHER
+that's fun;OTHER
+that's very good;OTHER
+well done;OTHER
+what I need is this;OTHER
+what I want is this;OTHER
+what I wish is this;OTHER
+what a coincidence!;OTHER
+what do you think about it?;OTHER
+what do you think?;OTHER
+would you like to do it?;OTHER
+you don't have to do it;OTHER
+you have to do it;OTHER
+you don't need to do it;OTHER
+you need to do it;OTHER
+you could do it;OTHER
+you look nice;OTHER
+you look smart;OTHER
+you're right;OTHER
+you're welcome;OTHER
